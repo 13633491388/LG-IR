@@ -1,2 +1,2 @@
-# Exemplar-based Image Re-Colorization
+# Latent-Guided Exemplar-based Image Re-Colorization
 The code will be released soon.
