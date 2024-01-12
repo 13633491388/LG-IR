@@ -1,2 +1,2 @@
 # Latent-Guided Exemplar-based Image Re-Colorization
-The code will be released soon.
+PyTorch implementation for "Latent-Guided Exemplar-Based Image Re-Colorization".
